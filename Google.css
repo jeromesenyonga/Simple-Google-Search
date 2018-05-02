@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+  }
+
+  .main-nav{
+    float: right;
+    margin: 20px;
+  }
+  .main-nav li{
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .main-nav li a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.8);
+    font-size: 12px;
+  }
+  .main-nav:hover{
+    text-decoration: underline;   
+  }
+.Jerome{
+    border: 1px solid white;
+    color: #646E68;
+    text-decoration: none;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+
+}
+h1{
+    color: black);
+    text-transform: Sentnce case;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 130px;  
+    font-family: "Roboto", arial;
+}
+
+.Tech{
+        margin: 22px 0 0 0;
+        padding: 50px 0 0 40%;
+        margin-top: 30px;
+        margin-left: 50px;
+    
+}
+
+.tea{
+    width: 550px;
+    height: 40px;
+    font-size: 17px;
+    border: 1px solid rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: outset 0 0 10px #000000;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+  .tea:focus{
+    border: 1px solid rgba(0,0,0,0.5);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin-top: -100px;
+    margin-left: -200px;
+  }
+
+.button{
+    margin-top: -20px;
+    margin-left: 25px;
+    padding: 50px 0 0 35%;
+}
+
+.tit{
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    margin-right: 5px;
+    font-size: 20px;
+    text-transform: none;
+    background-color: #f2f2f2
+}
+.tit a{
+    background-color: #D7D9D7;
+    font-weight: 200;
+    color: black:
+    font-family: Times New Roman, Times, serif;
+}
+
+.tit:hover{
+    border: 2px solid grey;
+}
+
+.tit a:hover{
+    color:grey;
+}
+
+
+ footer{
+    background-color: #F2F2F2;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-family: "Roboto", sans-serif;
+    //padding: 10px;
+  }
+  .jet{
+    float: left;
+    padding: 5px;
+  }
+  
+  .cain{
+    display: inline-block;
+    padding: 10px;
+  }
+  .cain a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.7);
+    font-size: 12px;
+  }
+  .cain a:hover{
+    text-decoration: underline;
+  }
+  
+  .footer-top h4{
+    color: rgba(0,0,0,0.6);
+    font-weight: 200;
+    padding: 10px 0 10px 20px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    font-size: 15px;
+  }
+  .footer-jet{
+    border-top: 1px solid rgba(0,0,0,0.1);
+  }
+  
